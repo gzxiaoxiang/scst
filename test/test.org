@@ -1,0 +1,4 @@
+I can't find the format file `pdflatex.fmt'!
+fmtutil: config file `fmtutil.cnf' not foun* this is a test program for org mode
+** we can see the result when run org 
+**  test 

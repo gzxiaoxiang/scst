@@ -1,0 +1,109 @@
+ls
+lynx 
+export WWW_HOME=http://www.w3.org/default.html 
+export WWW_HOME=http://www.baidu.com
+lynx
+lynx www.baidu.com
+lynx www.sina.com
+lynx
+apt-get install language-selector
+apt-get install language-env
+links www.baidu.com
+ls
+apt-get install zhcon
+lynx -display_charset=gb2312 http://www.htexam.net/
+ls
+lynx test.html
+ls
+ls
+cd ..
+ls
+cd ..
+s
+ls
+cd ..
+s
+ls
+ls
+xmodmap 
+xmodmap -h
+ls
+xmodmap 
+python
+ls
+ls -a
+export PYTHONSTARTUP=~/.pythonstartup.py
+ls
+python
+ls
+ls -a
+chmod 777 .pythonstartup.py 
+ls -a
+ls -a
+echo "export PYTHONSTARTUP=~/.pythonstartup" >> ~/.bashrc
+python
+ls
+ls
+ls -a
+pwd
+pwd
+cd ..
+ls
+cd ..
+ls
+cd private/var/
+ls
+pws
+pwd
+cd root/
+ls
+ls -a
+python
+python
+ls
+python
+export PYTHONSTARTUP=~/.pythonstartup.py
+python
+export PYTHONSTARTUP=/private/var/root/.pythonstartup.py
+python
+ls
+ls -a
+python .pythonstartup.py
+python
+clang
+clang++
+org-agenda-archive
+ls
+gcc test.c test
+cd ..
+ls
+ls -a
+ls
+pwd
+cd ro
+ls -a
+cd ..
+ls
+cd lk-26G/
+ls
+ls
+cd ..
+ls
+cd root/
+ls
+cd test/
+ls
+gcc -o test.c test
+gcc  test.c -o  test
+ls
+pwd
+cd test/
+ls
+ls
+lang test.c
+clang test.c
+ls
+lynx test.html
+gcc test.
+gcc test.c
+ipython
